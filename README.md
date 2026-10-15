@@ -1,2 +1,7 @@
-# html-practice
-Posting my practice questions on html and learning more about git
+# HTML & CSS Practice
+
+Week 1 of my full-stack learning journey.
+
+- Bio page with semantic tags
+- Contact form
+- CSS styling with flexbox
